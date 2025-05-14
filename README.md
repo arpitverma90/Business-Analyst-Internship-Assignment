@@ -46,7 +46,8 @@ Using Excel’s built-in tools (pivot tables, filters, and formulas), the follow
 
 - 🤝 **Cross-Selling Analysis (Optional)**: Identified product/service overlaps for bundled offerings.
 
-  ![image](https://github.com/user-attachments/assets/bfe6e7af-5e0c-4803-b334-a223a212fd02)
+ - ![image](https://github.com/user-attachments/assets/0c81739f-dc20-4e65-9cda-84fa54677b59)
+
 
 
 
