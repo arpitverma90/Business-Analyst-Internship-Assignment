@@ -1,5 +1,4 @@
-# Business-Analyst-Internship-Assignment
-# Business Analyst Internship Assignment – Customer and Sales Data Analysis
+# Business-Analyst-Internship-Assignment - Customer and Sales Data Analysis
 
 ## 📌 Objective
 
